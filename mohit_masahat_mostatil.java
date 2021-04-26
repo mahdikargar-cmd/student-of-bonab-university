@@ -1,4 +1,4 @@
-package practice;
+//کد بدست اوردن محیط و مساحت مستطیل به روشی ساده
 import java.util.Scanner;
 public class mohit_masahat_mostatil {
 	public static void main(String[] args) {
